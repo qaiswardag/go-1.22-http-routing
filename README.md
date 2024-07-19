@@ -19,8 +19,3 @@ This project demonstrates advanced routing in Go using the Go 1.22+ standard lib
 ### Prerequisites
 
 - Go 1.22 or higher installed.
-
-### Installation
-
-1. Clone the repository:  
-    `git clone https://github.com/yourusername/go-advanced-routing.git`
